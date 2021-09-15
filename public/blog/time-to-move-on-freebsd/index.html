@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Time to move on FreeBSD</title>
+    
+    
+    <link rel="stylesheet" href="/css/style.css">
+    
+  </head>
+  <body>
+    <header>
+  <h1>Suraj Kushwah's Website</h1>
+  
+  <form method="post" class="search">
+    <input type="text" placeholder="Site Search">
+    <input type="submit" value="go"><br>
+  </form>
+  <nav>
+    <ul>
+      
+      <li><a href="/">Homepage</a></li>
+      
+      <li><a href="/about">Who am I?</a></li>
+      
+      <li><a href="/blog">Blog and stuff</a></li>
+      
+      <li><a href="https://git.bugswriter.com">Git Server</a></li>
+      
+      <li><a href="/contact">How to reach me?</a></li>
+      
+    </ul>
+  </nav>
+  
+  <hr>
+</header>
+
+
+    
+<main>
+  <article>
+    <div class="article-heading">
+      <h1>Time to move on FreeBSD</h1>
+      <time>September 15, 2021</time>
+    </div>
+    <div>
+      <h2 id="what-is-freebsd">What is FreeBSD?</h2>
+<p>First of all <strong>FreeBSD or any BSD is not Linux or its distro</strong>.
+According to <a href="https://freebsd.org">freebsd.org</a> -</p>
+<blockquote>
+<p><strong>FreeBSD is an operating system</strong> used to power modern servers, desktops, and embedded platforms.
+A large community has continually developed it for more than thirty years. Its advanced networking,
+security, and storage features have made FreeBSD the platform of choice for many of the busiest web
+sites and most pervasive embedded networking and storage devices.</p>
+</blockquote>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<figure><img src="/images/freebsd-devil.jpg"
+         alt="Figure 1: FreeBSD Devil"/><figcaption>
+            <p>Figure 1: FreeBSD Devil</p>
+        </figcaption>
+</figure>
+
+<h2 id="why-freebsd-over-gnu-linux">Why FreeBSD over GNU/Linux?</h2>
+<ul>
+<li>
+<p><strong>FreeBSD is an operating system</strong>. This is the first selling point for me. Linux is just a kernel and all the
+other components like GNU Utils and GUI interfaces in the end of the day provides a working operating system (<em>aka Distro</em>),
+But it feels hacky. On the other hand, FreeBSD development is not just a component but the entire OS. Which
+means things work very well with each other. That&rsquo;s what I understand from all the reading and researching I
+did in past few weeks on FreeBSD.</p>
+</li>
+<li>
+<p>FreeBSD mailing list is limited to some professional, which is far better than GNU/Linux situation.
+Now if you don&rsquo;t know anything about Linux development, well even I don&rsquo;t. But always I get this sense &ldquo;it&rsquo;s not good&rdquo;.
+Anyone can join the team and I feel a lot of mess in the development process.
+Now since I am just a user and not a full time kernel developer, I don&rsquo;t really want to comment much on this.
+But here is the <a href="https://github.com/corollari/linusrants">link of a github repo</a>, which shows how messed things get sometimes.
+Let me quote Linus Torvarlds one line from the mailing list -</p>
+<blockquote>
+<p><em>What the F*CK, guys? This piece-of-shit commit is marked for stable, but you clearly never even test-compiled it, did you?</em></p>
+<p>&mdash; Linus Torvalds</p>
+</blockquote>
+<p>I believe FreeBSD development process is much better because it is done by CS field experts, which just make things much
+more reliable.
+We all know Linux kernel is getting bloat and more they try to fix this more bad things get. I don&rsquo;t remember the year, but
+Linus Torvalds himself said &ldquo;Things are getting out of hand&rdquo;. Don&rsquo;t forget Linux is a project which was started by just a guy
+who wanted his own UNIX.</p>
+</li>
+<li>
+<p>In comparision to linux performance wise FreeBSD is better, faster, stable, secure and reliable. Isn&rsquo;t that enough for leaving GNU/Linux
+and moving to FreeBSD?</p>
+</li>
+<li>
+<p>FreeBSD have much cleaner file organization in comparison to Linux.
+If you run <code>ls /bin</code> in FreeBSD you only find programs which is vital for your OS and on <code>ls /sbin</code> you will find rest of &ldquo;must to have programs&rdquo; for your OS.
+User programs are always separated from base operating system. Same thing goes with config files too. I love this cleanliness.</p>
+</li>
+</ul>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+<figure><img src="/images/freebsd-watch.jpg"
+         alt="Figure 2: What time it is? Its time for FreeBSD"/><figcaption>
+            <p>Figure 2: What time it is? Its time for FreeBSD</p>
+        </figcaption>
+</figure>
+
+<h2 id="why-not-openbsd-or-netbsd">Why not OpenBSD or NetBSD?</h2>
+<p>OpenBSD is know for security, but for the sake of security it is slower than FreeBSD. Also it&rsquo;s not very user-friendly. It&rsquo;s good for servers, but
+I think FreeBSD is much more focused to being good desktop alternative. Which makes it my first choice.
+<em>Also I like the FreeBSD logo more than OpenBSD logo</em>.
+Now Some people can argue on this and will make some valid point. But I will give FreeBSD a shot first.
+May be in future I try OpenBSD on my server.</p>
+<h2 id="issues-i-am-expecting">Issues I am expecting</h2>
+<p>The very common issue on any BSD is application support.</p>
+<ul>
+<li>Will I get all the softwares I need?</li>
+<li>Will I get proper updates?</li>
+<li>Even If I get updates will I get dependencies (its updates)?</li>
+<li>Hardware support?</li>
+</ul>
+<p>I believe I will, Because I know how to live with basic command line tools.
+My requirements are very limited, I hardly use any GUI program. I read some articles where
+soydevs were ranting about why they hated FreeBSD because they can&rsquo;t run atom editor.
+I think this is not a issue of FreeBSD, the community is excellent and I believe I should
+choose FreeBSD because it&rsquo;s good, instead of hating it for not having enough users.</p>
+
+    </div>
+
+    
+    <div class="foot-tags">
+      <b>Tags used in this post:</b>
+      <ul id="tags">
+	
+	<li><a href="/tags/freebsd">FreeBSD</a></li>
+	
+	<li><a href="/tags/linux">Linux</a></li>
+	
+      </ul>
+    </div>
+    
+    
+  </article>
+</main>
+<aside>
+  <div>
+    <div>
+      <h3>LATEST POSTS</h3>
+    </div>
+    <div>
+      <ul>
+	
+	<li><a href="/blog/time-to-move-on-freebsd/">Time to move on FreeBSD</a></li>
+	
+	<li><a href="/blog/first-blog/">First Blog</a></li>
+	
+      </ul>
+    </div>
+  </div>
+</aside>
+
+
+    <footer>
+  <hr>
+  <p>&copy; Copyright 2021 <a href="http://bugswriter.com">Suraj Kushwah</a>. All rights reserved.</p>
+</footer>
+
+  </body>
+</html>

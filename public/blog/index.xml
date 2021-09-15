@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Suraj Kushwah</title>
+    <link>http://bugswriter.com/blog/</link>
+    <description>Recent content in Blogs on Suraj Kushwah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0530</lastBuildDate><atom:link href="http://bugswriter.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Time to move on FreeBSD</title>
+      <link>http://bugswriter.com/blog/time-to-move-on-freebsd/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0530</pubDate>
+      
+      <guid>http://bugswriter.com/blog/time-to-move-on-freebsd/</guid>
+      <description>What is FreeBSD? First of all FreeBSD or any BSD is not Linux or its distro. According to freebsd.org -
+ FreeBSD is an operating system used to power modern servers, desktops, and embedded platforms. A large community has continually developed it for more than thirty years. Its advanced networking, security, and storage features have made FreeBSD the platform of choice for many of the busiest web sites and most pervasive embedded networking and storage devices.</description>
+    </item>
+    
+    <item>
+      <title>First Blog</title>
+      <link>http://bugswriter.com/blog/first-blog/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0530</pubDate>
+      
+      <guid>http://bugswriter.com/blog/first-blog/</guid>
+      <description>Welcome to my blog So today at mid night, I am writing this blog and I am very excited about it. Because this is my first blog on my website. I always wanted this. My own place on &amp;ldquo;The Internet&amp;rdquo;, where I can write whatever I want. I don&amp;rsquo;t like getting censored. This is the main reason why I chose to write here, instead of structuring my rant into 280 character on twitter.</description>
+    </item>
+    
+  </channel>
+</rss>

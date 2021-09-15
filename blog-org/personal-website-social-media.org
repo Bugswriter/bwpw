@@ -1,0 +1,8 @@
+#+TITLE: Personal Website's Social Media
+#+DATE: 
+#+DESCRIPTION: A small idea for social media of people's personal website.
+#+HUGO_SECTION: blog
+#+HUGO_TAGS: "idea" "Personal Wesbite"
+#+HUGO_CATEGORIES: software
+
+* 

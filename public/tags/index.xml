@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Suraj Kushwah</title>
+    <link>http://bugswriter.com/tags/</link>
+    <description>Recent content in Tags on Suraj Kushwah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0530</lastBuildDate><atom:link href="http://bugswriter.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FreeBSD</title>
+      <link>http://bugswriter.com/tags/freebsd/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0530</pubDate>
+      
+      <guid>http://bugswriter.com/tags/freebsd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://bugswriter.com/tags/linux/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0530</pubDate>
+      
+      <guid>http://bugswriter.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first blog</title>
+      <link>http://bugswriter.com/tags/first-blog/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0530</pubDate>
+      
+      <guid>http://bugswriter.com/tags/first-blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

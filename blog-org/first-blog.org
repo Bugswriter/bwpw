@@ -1,0 +1,49 @@
+#+TITLE: First Blog
+#+DATE: <2021-09-14 Tue>
+#+DESCRIPTION: This is my very first blog
+#+HUGO_SECTION: blog
+#+HUGO_TAGS: "first blog"
+#+HUGO_CATEGORIES: "personal"
+
+* Welcome to my blog
+  So today at mid night, I am writing this blog and I am very excited about it. Because this is my first blog on [[https://bugswriter.com][my website]].
+  I always wanted this. My own place on "The Internet", where I can write whatever I want. I don't like getting censored.
+  This is the main reason why I chose to write here, instead of structuring my rant into 280 character on twitter.
+  Internet is an amazing place, It changed my life. I don't want to go deep on Internet situation.
+  Since *this is my first blog, this is going to be completely topicless*.
+
+* What's the deal here?
+   - This blog is just a part of [[https://bugswriter.com][my website]] and I have intentions to manage this website/blog my whole life. This way I can document my life and thoughts,
+     and people can know me even after I die.
+     I want to make it public, since I have some issues interacting with people and making friends. People can know me without even contacting me.
+
+   - If you have no interest in my life, well here I will also write about tech and other stuff I learn, so those articles can be useful for you.
+     
+   - I believe my blogs will be highly informal. If I end up in some bad day/mood. I might write some really nasty stuff. Lets hope this never happen.
+
+   - I also want to improve my English writing skills. Seems like a great way to do it.
+
+   - I hate writing on garbage social media platforms (/example - facebook, twitter, quora/). Here I will feel more free and my words don't get mixed with noise.
+
+* Some words regarding my poor writing
+   I want to make this clear, I am not good with English. So don't expect good literature from me. I write in exact same manner I speak.
+   I would love to get corrected so if you find any spelling mistake or grammar mistake please [[https://bugswriter.com/contact/][contact me]].
+     
+* How I got inspiration to start this blog?
+  I visited [[https://stallman.org][Richard Stallman Personal Website]] and I love it. He is my true inpiration. The way he right against non free softwares,
+  it motivated me to do the same.
+
+* On this blog I will write about..
+  - My life
+  - Free Software
+  - Hate speeches for non free softwares
+  - Places I might visit in future
+  - Anything new I explore
+  - Movies / TV shows
+  - My Opinions about random events
+  - It can be anything so this list is stupid
+
+* In the end
+  I will try very hard to write regularly. So please subscribe to [[https://bugswriter.com/blog/index.xml][RSS feed]] for regular updates
+  and make sure to [[https://bugswriter.com/contact/][give feedbacks]]. 
+  
